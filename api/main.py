@@ -10,7 +10,7 @@ from keras.preprocessing.sequence import pad_sequences
 # =========================
 # Load model & tokenizer
 # =========================
-model= load_model("lstm_sentiment_model.keras")
+model= load_model("lstm_model2.keras")
 
 with open("tokenizer.pkl", "rb") as f:
     tokenizer = pickle.load(f)
