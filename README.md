@@ -10,7 +10,6 @@ Table of Contents
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Overview
